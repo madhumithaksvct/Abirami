@@ -6,7 +6,7 @@ uint256 public number;
 uint public age =25;
 string public text;
 struct person{
- bool vote:
+ bool vote;
  string name;
  unit age;
 }
